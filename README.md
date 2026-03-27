@@ -37,5 +37,6 @@ An embedded system built on the STM32 microcontroller to monitor real-time envir
 
 ## 🚀 Getting Started
 1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/STM32-EnviroMonitor.git](https://github.com/yourusername/STM32-EnviroMonitor.git)
+2. Open the project in STM32CubeIDE or Keil uVision.
+3. Compile and flash the code to your STM32 board.
+4. Ensure hardware connections match the Pin Mapping table above.
